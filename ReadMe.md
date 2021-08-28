@@ -13,7 +13,7 @@ Changes I made:
 Link to the site: https://vincentmomot.github.io/CodeRefactor/
 
 Screenshots of Site:
-![alt text](readme_img_1.png)
-![alt text](readme_img_2.png)
-![alt text](readme_img_3.png)
+![alt text](assets/images/readme_img_1.png)
+![alt text](assets/images/readme_img_2.png)
+![alt text](assets/images/readme_img_3.png)
 
