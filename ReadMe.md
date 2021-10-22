@@ -11,7 +11,7 @@ Changes I made:
 6) Added a README.md to describe the work
 7) Added a name in the Tab Bar for a better UX.
 
-Link to the site: https://vincentmomot.github.io/CodeRefactor/
+Link to the site: https://vincentmomot.github.io/Horriseon-Site/
 
 Screenshots of Site:
 ![alt text](assets/images/readme_img_1.png)
